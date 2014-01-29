@@ -1,6 +1,6 @@
 RZSquaresLoading
 ==============
-UIActivityIndicatorView replacement with squares animation.
+iOS loading animations with squares.
 
 Usage
 ==============
