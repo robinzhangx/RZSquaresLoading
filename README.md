@@ -1,6 +1,8 @@
 RZSquaresLoading
 ==============
-iOS loading animations with squares.
+iOS loading animations with squares.  
+  
+![image](https://raw.github.com/robinzhangx/RZSquaresLoading/master/SquaresLoading.gif)
 
 Usage
 ==============
