@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>44CB346E-3139-43FD-9902-6B9E9D361B68</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SquaresLoading</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F6CD51F4-23D5-4161-B1D9-4F5E3D6D7857</key>
+		<string>https://github.com/robinzhangx/RZSquaresLoading.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Demo/SquaresLoading.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F6CD51F4-23D5-4161-B1D9-4F5E3D6D7857</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/robinzhangx/RZSquaresLoading.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F6CD51F4-23D5-4161-B1D9-4F5E3D6D7857</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F6CD51F4-23D5-4161-B1D9-4F5E3D6D7857</string>
+			<key>IDESourceControlWCCName</key>
+			<string>RZSquaresLoading</string>
+		</dict>
+	</array>
+</dict>
+</plist>
