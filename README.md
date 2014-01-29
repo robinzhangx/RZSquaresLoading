@@ -12,9 +12,16 @@ RZSquaresLoading *squareLoading = [[RZSquaresLoading alloc] initWithFrame:CGRect
 [self.view addSubview:squareLoading];
 ```
 
-Change color
+Change color:
 ```
 squareLoading.color = [UIColor redColor];
+```
+
+Install
+==============
+Install using CocoaPods:
+```
+pod 'RZSquaresLoading'
 ```
 
 License
