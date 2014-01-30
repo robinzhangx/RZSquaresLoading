@@ -6,7 +6,7 @@ iOS loading animation with squares.
 
 Usage
 ==============
-Instantiate ```RZSquaresLoading```(change the frame size and position to suit you need) and add to your view hierarchy.
+Instantiate ```RZSquaresLoading```(change the frame size and position to suit your need) and add to your view hierarchy.
 ```
 RZSquaresLoading *squareLoading = [[RZSquaresLoading alloc] initWithFrame:CGRectMake((0, 0, 36, 36)];
 [self.view addSubview:squareLoading];
