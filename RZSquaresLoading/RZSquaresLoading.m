@@ -33,6 +33,15 @@
     return self;
 }
 
+- (id)initWithCoder:(NSCoder *)coder
+{
+    self = [super initWithCoder:coder];
+    if (self) {
+        [self commonSetup:MIN(CGRectGetWidth(self.frame), CGRectGetHeight(self.frame))];
+    }
+    return self;
+}
+
 - (void)setColor:(UIColor *)color
 {
     _color = color;
