@@ -27,3 +27,7 @@ pod 'RZSquaresLoading'
 License
 ==============
 ```RZSquaresLoading``` is available under the MIT license. See the LICENSE file for more info.
+
+Note
+==============
+RZSquaresLoading is also available for Xamarin. See [RZSquaresLoading-Xamarin-iOS](https://github.com/Backelite/RZSquaresLoading-Xamarin-iOS).
